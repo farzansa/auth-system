@@ -1,0 +1,41 @@
+[
+  {
+    "id": "1",
+    "name": "علی رضایی",
+    "email": "ali@test.com",
+    "role": "admin",
+    "status": "active",
+    "lastLogin": "2026-01-05T10:20:00Z"
+  },
+  {
+    "id": "2",
+    "name": "سارا محمدی",
+    "email": "sara@test.com",
+    "role": "manager",
+    "status": "inactive",
+    "lastLogin": null
+  },
+  {
+    "id": "1767856031373",
+    "name": "hk",
+    "email": "khg",
+    "role": "user",
+    "permissions": [],
+    "status": "inactive",
+    "invitedAt": "2026-01-08T07:07:11.373Z",
+    "lastLogin": null
+  },
+  {
+    "id": "1767868653359",
+    "name": "talat",
+    "email": "talat@gmail.com",
+    "role": "manager",
+    "permissions": [
+      "fdg"
+    ],
+    "expiresAt": "2026-01-09",
+    "status": "inactive",
+    "invitedAt": "2026-01-08T10:37:33.359Z",
+    "lastLogin": null
+  }
+]
